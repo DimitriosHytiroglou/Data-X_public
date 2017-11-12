@@ -1,0 +1,19 @@
+
+Voice!
+Pulls data from open government portals (Federal, State, City) on ongoing pieces of legislation 
+and categorizes them into themes (eg. tax, finance, human rights etc), which it detects by enacting NLP on their contents.
+Notifies the user whenever there is any legislation going forward of which he should be aware of because it will affect him,
+based on personal data (eg. demographic, income, geolocation etc)
+This will motivate citizens to be more engaged in the legislative process.
+
+
+Project-Gerry
+Use California census data to draw more demographically and politically fair district lines.
+This will help combat the issue of gerrymandering of districts for party specific goals and create more balanced voting districts.
+
+Forest-track
+Use satellite imagery to track deforestation (extent, speed etc) over time in endangered areas. 
+This will produce valuable insight for conservationists and proof for combating a very real issue.
+
+Tweet-attack
+Analyse presidential tweet data to predict how they will affect prices on the stock market.
